@@ -1,2 +1,2 @@
-# github-primeiro-desafio-dio
+# Primeiro repositório do desafio de projeto sobre Git/Github da DIO...
 Parte inicial do Bootcamp Santander
